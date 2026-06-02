@@ -86,7 +86,7 @@ Make sure you have all of these installed before starting:
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/0xSHSH/JavaMail-Application.git
+git clone https://github.com/0xSHSH/JavaMail.git
 cd JavaMail-Application
 ```
 
